@@ -1,2 +1,2 @@
 # hello-world
-Getting acquainted with git, yhis is my first ever repository.
+Getting acquainted with git, this is my first ever repository.
